@@ -27,7 +27,7 @@ function renderProducts(productsArray){
                     </div>
 
                     <div class="price">
-                        <div class="price__weight">${item.weigth}г.</div>
+                        <div class="price__weight">${item.weight}г.</div>
                         <div class="price__currency">${item.price} ₽</div>
                     </div>
                 </div>
